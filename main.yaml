@@ -1,0 +1,54 @@
+- name: AJAY
+  email: john@example.com
+  position: PhD
+  photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVt7GXhBiT0pc3w7WGTadYixDB-V5dLHJqA&s'
+
+- name: VAMSHI
+  email: jane@example.com
+  position: MS
+  photo: 'https://static.photocdn.pt/images/articles/2019/08/07/images/articles/2019/07/31/linkedin_profile_picture_tips-1.webp'
+- name: VASANTHA
+  email: alice@example.com
+  position: UG
+  photo: 'https://i.pinimg.com/236x/da/fd/f2/dafdf25168edcb2f0e1d8702797946cc.jpg'
+- name: Manoj
+  email: john@example.com
+  position: MSC
+  photo: 'https://www.milkround.com/advice/wp-content/uploads/how-to-take-a-good-linkedin-photo-1024x576.jpg'
+
+- name: VASANTHA
+  email: jane@example.com
+  position: MS
+  photo: 'https://i.pinimg.com/736x/55/a5/89/55a589c4c118141188f1396ebada5e9b.jpg'
+
+- name: SIDDU
+  email: alice@example.com
+  position: UG
+  photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsrRs86ZRBElindakhZ08TVkyc9FSAcfN_QanecepQA&s'
+  
+- name: VASAVI
+  email: john@example.com
+  position: PhD
+  photo: 'https://retratosbarcelona.com/wp-content/uploads/2022/09/Retratos-Barcelona-Linkedin-Photography-Alejandra.jpg'
+
+- name: Zakeer
+  email: jane@example.com
+  position: MS
+  photo: 'https://artriva.com/media/k2/items/cache/c889234799e865bbe90cee71f6cd2e53_XL.jpg'
+
+
+- name: RANJITH
+  email: john@example.com
+  position: PhD
+  photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShPywd-CxK6loLgL4T3w75rvOOg7Ri3xj4nbbIY8UPg&s'
+
+- name: PINKY
+  email: jane@example.com
+  position: MBA
+  photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbWjeZJw8HDU8N-htN1Q9Z1ISEp3EqtZOkFrv5Rr7bgsPq_7WtTgRm39DsXLiRDodQHow&usqp=CAU'
+
+- name: SURAJ
+  email: alice@example.com
+  position: MBA
+  photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT621hI0pt0OX-fE9QLrckPwv0xj29k7NPYSL41RXXSnTlKRjhIqeJI9wX4eBtXAlkk-ss&usqp=CAU'
+  
